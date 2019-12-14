@@ -72,3 +72,6 @@
 2019-12-14 12:50:52 INFO  com.course.PraticalJavaApplication - Starting PraticalJavaApplication on LAPTOP-1V6QHPRG with PID 13392 (started by Guy-Ross ASSOUMOU in C:\Users\Guy-Ross ASSOUMOU\Documents\PROGRAMMATION\TEST_JAVA_Ulaval\pratical-java)
 2019-12-14 12:50:52 INFO  com.course.PraticalJavaApplication - No active profile set, falling back to default profiles: default
 2019-12-14 12:50:53 INFO  com.course.PraticalJavaApplication - Started PraticalJavaApplication in 0.204 seconds (JVM running for 49815.188)
+2019-12-14 16:16:07 INFO  com.course.PraticalJavaApplication - Starting PraticalJavaApplication on LAPTOP-1V6QHPRG with PID 19020 (started by Guy-Ross ASSOUMOU in C:\Users\Guy-Ross ASSOUMOU\Documents\PROGRAMMATION\TEST_JAVA_Ulaval\pratical-java)
+2019-12-14 16:16:07 INFO  com.course.PraticalJavaApplication - No active profile set, falling back to default profiles: default
+2019-12-14 16:16:08 INFO  com.course.PraticalJavaApplication - Started PraticalJavaApplication in 1.198 seconds (JVM running for 1.976)
